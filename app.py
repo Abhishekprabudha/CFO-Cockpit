@@ -7,7 +7,7 @@ from docx import Document
 
 # ---------- Config ----------
 st.set_page_config(page_title="Financial Q&A + Live Excel Calc", page_icon="📊", layout="wide")
-st.title("📊 Financial Q&A + 🔢 Live Excel Calculator (Streamlit Demo)")
+st.title("📊 Financial Q&A + 🔢 Live Excel Calculator")
 st.caption("Upload a financial document or a spreadsheet, then ask questions in chat. "
            "For semantic answers, set OPENAI_API_KEY in your environment (optional).")
 
